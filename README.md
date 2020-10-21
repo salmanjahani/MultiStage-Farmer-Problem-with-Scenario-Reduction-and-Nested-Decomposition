@@ -1,4 +1,4 @@
-# MultiStage-Farmer-Problem-with-Scenario-Reduction
+# MultiStage-Farmer-Problem-with-Scenario-Reduction and Nested Decomposition
 
 A multistage format of Farmer Problem in "Introduction to Stochastic Programming" by François Louveaux and John R. Birge is optimized using GAMS.
 
